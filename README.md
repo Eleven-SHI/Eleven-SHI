@@ -2,6 +2,7 @@
 - 👀 I’m interested in earn money.
 - 🌱 I’m currently learning Front-end development and Database development.
 - 💞️ I’m looking to collaborate on improve development skill.
+- ✨ I'm open to job (Melbourne, AU) now.
 - 📫 How to reach me: send me e-mail to "shi00011@gmail.com"
 
 <!---
