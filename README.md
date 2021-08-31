@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eleven-SHI
 - 👀 I’m interested in earn money.
-- 🌱 I’m currently learning Front-end development and Database development.
+- 🌱 I’m currently learning Full-stack development and Database development.
 - 💞️ I’m looking to collaborate on improve development skill.
 - ✨ I'm open to job (Sydney, AU) now.
 - 📫 How to reach me: send me e-mail to "wshi00011@gmail.com"
